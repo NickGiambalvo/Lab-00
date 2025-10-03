@@ -1,0 +1,3 @@
+file_collector.sh
+output.txt
+README.md
